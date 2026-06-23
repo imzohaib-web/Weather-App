@@ -1,6 +1,8 @@
 # WeatherNow
 
 A responsive weather dashboard built with HTML, CSS, and vanilla JavaScript. Search for a city or use your current location to view live weather conditions and a 5-day forecast.
+<img width="1885" height="942" alt="image" src="https://github.com/user-attachments/assets/74b465e4-652c-47bb-9b70-ce7e5ec60b09" />
+
 
 ## Features
 
